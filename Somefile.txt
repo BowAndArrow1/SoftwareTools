@@ -1,0 +1,5 @@
+What is configuration management
+
+The Git-based configuration management functions are optional.
+If you already have other means of delivering file-based configurations for the host agent, 
+like Ansible, Terraform, Chef, or Puppet, then you likely do not need Git-based configuration management.
